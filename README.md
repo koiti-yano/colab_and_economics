@@ -1,5 +1,9 @@
 # Economic Analysis with Colaboratory and APIs
 
+[![Python Version](https://img.shields.io/badge/python-3.7%2B-blue.svg)](https://www.python.org/downloads/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
+
 This repository contains codes and data for empirical economic analysis using Google Colaboratory and various economic data APIs.
 
 ## Features
@@ -168,7 +172,9 @@ See `requirements.txt` for complete list with versions.
 
 ## Contributing
 
-Contributions are welcome! Feel free to:
+Contributions are welcome! Please read our [Contributing Guidelines](CONTRIBUTING.md) for details on how to submit pull requests, report issues, or suggest improvements.
+
+Feel free to:
 - Add new data sources
 - Improve analysis functions
 - Add new example notebooks
@@ -176,7 +182,7 @@ Contributions are welcome! Feel free to:
 
 ## License
 
-This project is open source and available for educational and research purposes.
+This project is open source and available for educational and research purposes under the [MIT License](LICENSE).
 
 ## Resources
 
