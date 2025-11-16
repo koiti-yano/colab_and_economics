@@ -23,6 +23,8 @@ colab_and_economics/
 │   └── analysis_utils.py  # Utility functions for analysis
 ├── data/                   # Sample economic data
 │   └── sample_economic_data.csv
+├── example.py              # Example script to test installation
+├── QUICKSTART.md           # Quick start guide
 ├── requirements.txt        # Python dependencies
 └── README.md              # This file
 ```
@@ -36,6 +38,8 @@ colab_and_economics/
 3. Run the first cell to install dependencies
 4. Follow along with the examples!
 
+See [QUICKSTART.md](QUICKSTART.md) for detailed instructions.
+
 ### Local Installation
 
 ```bash
@@ -45,6 +49,9 @@ cd colab_and_economics
 
 # Install dependencies
 pip install -r requirements.txt
+
+# Test the installation
+python example.py
 
 # Launch Jupyter
 jupyter notebook
